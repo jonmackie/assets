@@ -1,0 +1,56 @@
+top down 2d rpg
+pixel size: 16x16
+
+------------------------
+
+the player
+
+idle:
+north
+north-east
+east
+south-east
+south
+sout-west
+west
+north-west
+
+walk:
+north
+north-east
+east
+south-east
+south
+sout-west
+west
+north-west
+
+attack [Melee](should only swing hand, weapons will be put into the hand in the game engine):
+north
+north-east
+east
+south-east
+south
+sout-west
+west
+north-west
+
+attack [magic](should only raise hand, weapons will be put into the hand in the game engine):
+north
+north-east
+east
+south-east
+south
+sout-west
+west
+north-west
+
+mining/woodcutting (should only swing hand, axes/pickaxes will be put into the hand in the game engine):
+north
+north-east
+east
+south-east
+south
+sout-west
+west
+north-west

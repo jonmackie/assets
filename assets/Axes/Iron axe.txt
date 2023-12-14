@@ -1,0 +1,5 @@
+Iron axe: This axe should have a classic, sturdy appearance.
+The head is a dark, metallic gray, with a slightly lighter gray
+along the edges to suggest a sharp, well-forged blade. The handle
+is a brown wooden color, with a few darker pixels to indicate wood
+grain. Overall, it should have a simple, utilitarian look.
