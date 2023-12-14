@@ -1,0 +1,4 @@
+Bat:
+Description: A small, common bat found in caves or forests.
+
+Animations: Simple flapping flight, a basic dive attack.

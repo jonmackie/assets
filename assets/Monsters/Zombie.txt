@@ -1,0 +1,4 @@
+Zombie:
+Description: A decaying humanoid with torn clothing and discolored, rotting flesh. Its movements are sluggish.
+
+Animations: Shuffling walk, basic grabbing or clawing attack.

@@ -1,0 +1,4 @@
+Rat:
+Description: An oversized rat with scruffy fur, beady eyes, and long whiskers. It appears dirty and scraggly.
+
+Animations: Scuttling walk, nibble attack.

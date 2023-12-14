@@ -1,0 +1,4 @@
+Goblin:
+Description: A small, weak goblin often armed with nothing more than a club or a dagger.
+
+Animations: Simple walking, basic swinging of its weapon.

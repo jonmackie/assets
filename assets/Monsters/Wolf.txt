@@ -1,0 +1,4 @@
+Wolf:
+Description: A regular forest wolf, not overly large or aggressive.
+
+Animations: Basic running, simple biting attack.

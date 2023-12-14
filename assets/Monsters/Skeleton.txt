@@ -1,0 +1,4 @@
+Skeleton:
+Description: A brittle, bone-white skeleton wielding a rusty sword. It has glowing eyes in its skull.
+
+Animations: Basic walking, simple sword attack.

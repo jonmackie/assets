@@ -1,0 +1,4 @@
+Harpy:
+Description: A bird-like humanoid with feathers, wings instead of arms, and taloned feet. It has a wild, avian appearance.
+
+Animations: Flapping flight, swooping attack.

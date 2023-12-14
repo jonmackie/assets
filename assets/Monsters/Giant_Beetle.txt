@@ -1,0 +1,4 @@
+Giant Beetle:
+Description: A beetle with a thick, shiny carapace. Its body is segmented and it has large mandibles.
+
+Animations: Crawling, basic bite.

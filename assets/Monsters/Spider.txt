@@ -1,0 +1,4 @@
+Spider:
+Description: A typical spider, larger than real-life but not overly menacing.
+
+Animations: Crawling, a basic bite attack.

@@ -1,0 +1,4 @@
+Imp:
+Description: A small, devilish creature with red or dark skin, horns, and a mischievous expression. It may have tiny wings.
+
+Animations: running, scratch attack.

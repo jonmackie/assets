@@ -1,0 +1,4 @@
+Forest Sprite:
+Description: A tiny, ethereal being with delicate wings like those of a butterfly, and a gentle, glowing aura.
+
+Animations: Fluttering flight, minor magical spell (like a small burst of light or wind).

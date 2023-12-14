@@ -1,0 +1,4 @@
+Elemental Wisp:
+Description: A floating, glowing orb of energy, with small tendrils of elemental power (like flames or frost) emanating from it.
+
+Animations: Floating, minor elemental attack (like a small fire or ice blast).

@@ -1,0 +1,4 @@
+Orc:
+Description: A large, muscular humanoid with green or gray skin, tusks, and a brutish face. It's often clad in simple armor.
+
+Animations: Hefty walking, swinging a weapon like a club or axe.

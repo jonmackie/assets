@@ -1,0 +1,4 @@
+Bandit:
+Description: A rugged human or humanoid with a rough appearance, wearing makeshift or stolen armor and carrying simple weapons.
+
+Animations: Running, simple sword or dagger attack.
